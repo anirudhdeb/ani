@@ -22,5 +22,10 @@ public class Mesh {
 	{
 		System.out.println("Asdaaaaaaaaaaaaaaaaaaaaaaa");
 	}
+	
+	void e()
+	{
+		System.out.println("adding extras");
+	}
 
 }
