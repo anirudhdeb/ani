@@ -17,5 +17,10 @@ public class Mesh {
 	{
 		
 	}
+	
+	void d()
+	{
+		System.out.println("Asdaaaaaaaaaaaaaaaaaaaaaaa");
+	}
 
 }
