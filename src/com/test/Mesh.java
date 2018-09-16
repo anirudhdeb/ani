@@ -12,5 +12,10 @@ public class Mesh {
 	{
 		System.out.println("Asd");
 	}
+	
+	void c()
+	{
+		
+	}
 
 }
