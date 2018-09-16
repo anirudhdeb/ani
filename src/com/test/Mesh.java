@@ -7,5 +7,10 @@ public class Mesh {
 	{
 		System.out.println("*****main method******");
 	}
+	
+	void add()
+	{
+		System.out.println("Asd");
+	}
 
 }
